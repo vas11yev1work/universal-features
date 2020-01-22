@@ -1,0 +1,1 @@
+https://webdevblog.ru/15-obyazatelnyh-direktiv-vue-kotorye-znachitelno-uvelichat-vashu-proizvoditelnost/ - 15 директив для Vue
